@@ -1,0 +1,17 @@
+{
+  "name": "7.-javascript-in-the-browser-dom-and-events-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.3",
+    "parcel": "^2.10.3",
+    "sass": "^1.69.6"
+  }
+}
