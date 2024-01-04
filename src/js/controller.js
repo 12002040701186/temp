@@ -15,3 +15,6 @@ var timeLimit = function (fn, t) {
   })();
 };
 timeLimit(fn(5), 10000);
+vivekjuremani / pratice;
+vivekjuremani / pratice;vivekjuremani / pratice;
+
